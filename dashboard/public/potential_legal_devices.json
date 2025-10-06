@@ -1,0 +1,648 @@
+{
+  "metadata": {
+    "generated_at": "2025-10-05T22:00:00",
+    "total_legal_candidates": 20,
+    "analysis_criteria": {
+      "minimum_incidents": 5,
+      "death_pattern_threshold": 2,
+      "injury_pattern_threshold": 3,
+      "malfunction_pattern_threshold": 5,
+      "severity_scoring": "deaths*10 + injuries*2 + malfunctions*0.5"
+    },
+    "reddit_research_completed": true,
+    "reddit_research_date": "2025-10-05T22:30:25.378667"
+  },
+  "devices": [
+    {
+      "device_name": "T:SLIM/CONTROL-IQ",
+      "manufacturer": "TANDEM DIABETES CARE, INC.",
+      "total_incidents": 221,
+      "deaths": 132,
+      "injuries": 87,
+      "malfunctions": 2,
+      "severity_score": 1495.0,
+      "legal_merit": [
+        "132 deaths with similar causes",
+        "87 injuries with repeated patterns",
+        "High incident volume (221 cases)"
+      ],
+      "key_problems": [
+        "mandatory problem report",
+        "others",
+        "mandatory problem report linked to a recall"
+      ],
+      "death_causes": [
+        "mandatory problem report",
+        "others"
+      ],
+      "injury_types": [
+        "mandatory problem report"
+      ],
+      "malfunction_types": [
+        "mandatory problem report"
+      ],
+      "risk_level": "HIGH",
+      "class_action_status": "NONE_FOUND",
+      "reddit_research_needed": true,
+      "reddit_evidence_found": true,
+      "reddit_posts_count": 10
+    },
+    {
+      "device_name": "SPACE INFUSION SYSTEM - INFUSOMAT SPACE VOLUMETRIC INFUSION PUMP",
+      "manufacturer": "HOSPITAL / H\u00d4PITAL; B. BRAUN MELSUNGEN AG; B. BRAUN US DEVICE MANUFACTURING LLC.",
+      "total_incidents": 264,
+      "deaths": 127,
+      "injuries": 12,
+      "malfunctions": 125,
+      "severity_score": 1356.5,
+      "legal_merit": [
+        "127 deaths with similar causes",
+        "12 injuries with repeated patterns",
+        "125 malfunctions indicating design defects",
+        "High incident volume (264 cases)"
+      ],
+      "key_problems": [
+        "mandatory problem report",
+        "voluntary problem report"
+      ],
+      "death_causes": [
+        "mandatory problem report",
+        "voluntary problem report"
+      ],
+      "injury_types": [
+        "mandatory problem report"
+      ],
+      "malfunction_types": [
+        "voluntary problem report"
+      ],
+      "risk_level": "HIGH",
+      "class_action_status": "NONE_FOUND",
+      "reddit_research_needed": true,
+      "reddit_evidence_found": true,
+      "reddit_posts_count": 10
+    },
+    {
+      "device_name": "T:SLIM X2 INSULIN PUMP",
+      "manufacturer": "TANDEM DIABETES CARE, INC.; TANDEM DIABETES CARE CANADA, INC.",
+      "total_incidents": 171,
+      "deaths": 113,
+      "injuries": 15,
+      "malfunctions": 43,
+      "severity_score": 1181.5,
+      "legal_merit": [
+        "113 deaths with similar causes",
+        "15 injuries with repeated patterns",
+        "43 malfunctions indicating design defects",
+        "High incident volume (171 cases)"
+      ],
+      "key_problems": [
+        "mandatory problem report"
+      ],
+      "death_causes": [
+        "mandatory problem report"
+      ],
+      "injury_types": [
+        "mandatory problem report"
+      ],
+      "malfunction_types": [
+        "mandatory problem report"
+      ],
+      "risk_level": "HIGH",
+      "class_action_status": "NONE_FOUND",
+      "reddit_research_needed": true,
+      "reddit_evidence_found": true,
+      "reddit_posts_count": 10
+    },
+    {
+      "device_name": "NOVUM IQ LARGE VOLUME PUMP",
+      "manufacturer": "BAXTER CORPORATION; BAXTER HEALTHCARE CORPORATION",
+      "total_incidents": 113,
+      "deaths": 101,
+      "injuries": 7,
+      "malfunctions": 5,
+      "severity_score": 1026.5,
+      "legal_merit": [
+        "101 deaths with similar causes",
+        "7 injuries with repeated patterns",
+        "High incident volume (113 cases)"
+      ],
+      "key_problems": [
+        "mandatory problem report",
+        "mandatory problem report linked to a recall",
+        "voluntary problem report"
+      ],
+      "death_causes": [
+        "mandatory problem report",
+        "mandatory problem report linked to a recall"
+      ],
+      "injury_types": [
+        "mandatory problem report"
+      ],
+      "malfunction_types": [
+        "mandatory problem report"
+      ],
+      "risk_level": "HIGH",
+      "class_action_status": "NONE_FOUND",
+      "reddit_research_needed": true,
+      "reddit_evidence_found": true,
+      "reddit_posts_count": 10
+    },
+    {
+      "device_name": "DEXCOM G7 SENSOR",
+      "manufacturer": "DEXCOM, INC.",
+      "total_incidents": 148,
+      "deaths": 69,
+      "injuries": 12,
+      "malfunctions": 67,
+      "severity_score": 747.5,
+      "legal_merit": [
+        "69 deaths with similar causes",
+        "12 injuries with repeated patterns",
+        "67 malfunctions indicating design defects",
+        "High incident volume (148 cases)"
+      ],
+      "key_problems": [
+        "mandatory problem report",
+        "voluntary problem report",
+        "others"
+      ],
+      "death_causes": [
+        "mandatory problem report",
+        "voluntary problem report"
+      ],
+      "injury_types": [
+        "mandatory problem report"
+      ],
+      "malfunction_types": [
+        "mandatory problem report",
+        "others"
+      ],
+      "risk_level": "HIGH",
+      "class_action_status": "NONE_FOUND",
+      "reddit_research_needed": true,
+      "reddit_evidence_found": true,
+      "reddit_posts_count": 10
+    },
+    {
+      "device_name": "T:SLIM X2 INSULIN PUMP WITH CONTROL-IQ TECHNOLOGY",
+      "manufacturer": "TANDEM DIABETES CARE, INC.; TANDEM DIABETES CARE CANADA, INC.",
+      "total_incidents": 76,
+      "deaths": 55,
+      "injuries": 21,
+      "malfunctions": 0,
+      "severity_score": 592.0,
+      "legal_merit": [
+        "55 deaths with similar causes",
+        "21 injuries with repeated patterns",
+        "High incident volume (76 cases)"
+      ],
+      "key_problems": [
+        "mandatory problem report",
+        "others"
+      ],
+      "death_causes": [
+        "mandatory problem report",
+        "others"
+      ],
+      "injury_types": [
+        "mandatory problem report"
+      ],
+      "malfunction_types": [],
+      "risk_level": "HIGH",
+      "class_action_status": "NONE_FOUND",
+      "reddit_research_needed": true,
+      "reddit_evidence_found": true,
+      "reddit_posts_count": 10
+    },
+    {
+      "device_name": "BIPAP A40 PRO, CA",
+      "manufacturer": "RESPIRONICS INC. ALSO TRADING AS PHILIPS RS NORTH AMERICA LLC",
+      "total_incidents": 59,
+      "deaths": 59,
+      "injuries": 0,
+      "malfunctions": 0,
+      "severity_score": 590.0,
+      "legal_merit": [
+        "59 deaths with similar causes",
+        "High incident volume (59 cases)"
+      ],
+      "key_problems": [
+        "mandatory problem report linked to a recall",
+        "mandatory problem report"
+      ],
+      "death_causes": [
+        "mandatory problem report linked to a recall",
+        "mandatory problem report"
+      ],
+      "injury_types": [],
+      "malfunction_types": [],
+      "risk_level": "HIGH",
+      "class_action_status": "NONE_FOUND",
+      "reddit_research_needed": true,
+      "reddit_evidence_found": true,
+      "reddit_posts_count": 1
+    },
+    {
+      "device_name": "T:SLIM/CONTROL-IQ, REPLACEMENT",
+      "manufacturer": "TANDEM DIABETES CARE, INC.",
+      "total_incidents": 93,
+      "deaths": 50,
+      "injuries": 43,
+      "malfunctions": 0,
+      "severity_score": 586.0,
+      "legal_merit": [
+        "50 deaths with similar causes",
+        "43 injuries with repeated patterns",
+        "High incident volume (93 cases)"
+      ],
+      "key_problems": [
+        "mandatory problem report"
+      ],
+      "death_causes": [
+        "mandatory problem report"
+      ],
+      "injury_types": [
+        "mandatory problem report"
+      ],
+      "malfunction_types": [],
+      "risk_level": "HIGH",
+      "class_action_status": "NONE_FOUND",
+      "reddit_research_needed": true,
+      "reddit_evidence_found": true,
+      "reddit_posts_count": 10
+    },
+    {
+      "device_name": "SMOOTH ROUND MODERATE PLUS PROFILE SILICONE GEL FILLED BREAST IMPLANTS",
+      "manufacturer": "JOHNSON & JOHNSON MEDTECH, A DIV. OF JOHNSON & JOHNSON (CANADA), INC.; MENTOR",
+      "total_incidents": 98,
+      "deaths": 50,
+      "injuries": 21,
+      "malfunctions": 27,
+      "severity_score": 555.5,
+      "legal_merit": [
+        "50 deaths with similar causes",
+        "21 injuries with repeated patterns",
+        "27 malfunctions indicating design defects",
+        "High incident volume (98 cases)"
+      ],
+      "key_problems": [
+        "mandatory problem report"
+      ],
+      "death_causes": [
+        "mandatory problem report"
+      ],
+      "injury_types": [
+        "mandatory problem report"
+      ],
+      "malfunction_types": [
+        "mandatory problem report"
+      ],
+      "risk_level": "HIGH",
+      "class_action_status": "NONE_FOUND",
+      "reddit_research_needed": true,
+      "reddit_evidence_found": true,
+      "reddit_posts_count": 8
+    },
+    {
+      "device_name": "T:SLIM X2 CARTRIDGE",
+      "manufacturer": "TANDEM DIABETES CARE, INC.",
+      "total_incidents": 92,
+      "deaths": 46,
+      "injuries": 46,
+      "malfunctions": 0,
+      "severity_score": 552.0,
+      "legal_merit": [
+        "46 deaths with similar causes",
+        "46 injuries with repeated patterns",
+        "High incident volume (92 cases)"
+      ],
+      "key_problems": [
+        "mandatory problem report",
+        "others"
+      ],
+      "death_causes": [
+        "mandatory problem report",
+        "others"
+      ],
+      "injury_types": [
+        "mandatory problem report"
+      ],
+      "malfunction_types": [],
+      "risk_level": "HIGH",
+      "class_action_status": "NONE_FOUND",
+      "reddit_research_needed": true,
+      "reddit_evidence_found": true,
+      "reddit_posts_count": 10
+    },
+    {
+      "device_name": "SALINE-FILLED MAMMARY PROSTHESES WITH DIAPHRAGM VALVE",
+      "manufacturer": "JOHNSON & JOHNSON MEDTECH, A DIV. OF JOHNSON & JOHNSON (CANADA), INC.; MENTOR",
+      "total_incidents": 72,
+      "deaths": 53,
+      "injuries": 5,
+      "malfunctions": 14,
+      "severity_score": 547.0,
+      "legal_merit": [
+        "53 deaths with similar causes",
+        "5 injuries with repeated patterns",
+        "14 malfunctions indicating design defects",
+        "High incident volume (72 cases)"
+      ],
+      "key_problems": [
+        "mandatory problem report"
+      ],
+      "death_causes": [
+        "mandatory problem report"
+      ],
+      "injury_types": [
+        "mandatory problem report"
+      ],
+      "malfunction_types": [
+        "mandatory problem report"
+      ],
+      "risk_level": "HIGH",
+      "class_action_status": "NONE_FOUND",
+      "reddit_research_needed": true,
+      "reddit_evidence_found": true,
+      "reddit_posts_count": 7
+    },
+    {
+      "device_name": "LIFELINE BETA AV-SET ONLINE PLUS BVM 5008-R",
+      "manufacturer": "HOSPITAL / H\u00d4PITAL; FRESENIUS MEDICAL CARE CANADA, INC.; FRESENIUS MEDICAL CARE AG",
+      "total_incidents": 121,
+      "deaths": 43,
+      "injuries": 1,
+      "malfunctions": 77,
+      "severity_score": 470.5,
+      "legal_merit": [
+        "43 deaths with similar causes",
+        "77 malfunctions indicating design defects",
+        "High incident volume (121 cases)"
+      ],
+      "key_problems": [
+        "voluntary problem report",
+        "mandatory problem report",
+        "summary mandatory reports"
+      ],
+      "death_causes": [
+        "mandatory problem report",
+        "summary mandatory reports"
+      ],
+      "injury_types": [
+        "mandatory problem report"
+      ],
+      "malfunction_types": [
+        "voluntary problem report"
+      ],
+      "risk_level": "HIGH",
+      "class_action_status": "NONE_FOUND",
+      "reddit_research_needed": true,
+      "reddit_evidence_found": true,
+      "reddit_posts_count": 1
+    },
+    {
+      "device_name": "CONTROL-IQ TECHNOLOGY",
+      "manufacturer": "TANDEM DIABETES CARE, INC.; TANDEM DIABETES CARE CANADA, INC.",
+      "total_incidents": 52,
+      "deaths": 30,
+      "injuries": 22,
+      "malfunctions": 0,
+      "severity_score": 344.0,
+      "legal_merit": [
+        "30 deaths with similar causes",
+        "22 injuries with repeated patterns",
+        "High incident volume (52 cases)"
+      ],
+      "key_problems": [
+        "mandatory problem report",
+        "mandatory problem report linked to a recall"
+      ],
+      "death_causes": [
+        "mandatory problem report",
+        "mandatory problem report linked to a recall"
+      ],
+      "injury_types": [
+        "mandatory problem report"
+      ],
+      "malfunction_types": [],
+      "risk_level": "HIGH",
+      "class_action_status": "NONE_FOUND",
+      "reddit_research_needed": true,
+      "reddit_evidence_found": true,
+      "reddit_posts_count": 10
+    },
+    {
+      "device_name": "UNKNOWN B BRAUN INFUSION PUMP",
+      "manufacturer": "HOSPITAL / H\u00d4PITAL; B. BRAUN MEDICAL INC.",
+      "total_incidents": 35,
+      "deaths": 33,
+      "injuries": 2,
+      "malfunctions": 0,
+      "severity_score": 334.0,
+      "legal_merit": [
+        "33 deaths with similar causes",
+        "High incident volume (35 cases)"
+      ],
+      "key_problems": [
+        "mandatory problem report"
+      ],
+      "death_causes": [
+        "mandatory problem report"
+      ],
+      "injury_types": [
+        "mandatory problem report"
+      ],
+      "malfunction_types": [],
+      "risk_level": "HIGH",
+      "class_action_status": "NONE_FOUND",
+      "reddit_research_needed": true,
+      "reddit_evidence_found": true,
+      "reddit_posts_count": 10
+    },
+    {
+      "device_name": "PRISMAX CONTROL UNIT",
+      "manufacturer": "HOSPITAL / H\u00d4PITAL",
+      "total_incidents": 116,
+      "deaths": 26,
+      "injuries": 2,
+      "malfunctions": 88,
+      "severity_score": 308.0,
+      "legal_merit": [
+        "26 deaths with similar causes",
+        "88 malfunctions indicating design defects",
+        "High incident volume (116 cases)"
+      ],
+      "key_problems": [
+        "voluntary problem report",
+        "mandatory problem report"
+      ],
+      "death_causes": [
+        "mandatory problem report"
+      ],
+      "injury_types": [
+        "voluntary problem report",
+        "mandatory problem report"
+      ],
+      "malfunction_types": [
+        "voluntary problem report"
+      ],
+      "risk_level": "HIGH",
+      "class_action_status": "NONE_FOUND",
+      "reddit_research_needed": true,
+      "reddit_evidence_found": true,
+      "reddit_posts_count": 1
+    },
+    {
+      "device_name": "INFUSOMAT SPACE PUMP IV SET",
+      "manufacturer": "HOSPITAL / H\u00d4PITAL; B. BRAUN MEDICAL INC.; B. BRAUN US DEVICE MANUFACTURING LLC.",
+      "total_incidents": 153,
+      "deaths": 23,
+      "injuries": 0,
+      "malfunctions": 130,
+      "severity_score": 295.0,
+      "legal_merit": [
+        "23 deaths with similar causes",
+        "130 malfunctions indicating design defects",
+        "High incident volume (153 cases)"
+      ],
+      "key_problems": [
+        "voluntary problem report",
+        "mandatory problem report",
+        "summary mandatory reports"
+      ],
+      "death_causes": [
+        "mandatory problem report",
+        "summary mandatory reports"
+      ],
+      "injury_types": [],
+      "malfunction_types": [
+        "voluntary problem report"
+      ],
+      "risk_level": "HIGH",
+      "class_action_status": "NONE_FOUND",
+      "reddit_research_needed": true,
+      "reddit_evidence_found": true,
+      "reddit_posts_count": 10
+    },
+    {
+      "device_name": "OMNIPOD DASH, PODS 10-PACK",
+      "manufacturer": "INSULET CORPORATION; INSULET CANADA CORPORATION",
+      "total_incidents": 61,
+      "deaths": 20,
+      "injuries": 39,
+      "malfunctions": 2,
+      "severity_score": 279.0,
+      "legal_merit": [
+        "20 deaths with similar causes",
+        "39 injuries with repeated patterns",
+        "High incident volume (61 cases)"
+      ],
+      "key_problems": [
+        "mandatory problem report"
+      ],
+      "death_causes": [
+        "mandatory problem report"
+      ],
+      "injury_types": [
+        "mandatory problem report"
+      ],
+      "malfunction_types": [
+        "mandatory problem report"
+      ],
+      "risk_level": "HIGH",
+      "class_action_status": "NONE_FOUND",
+      "reddit_research_needed": true,
+      "reddit_evidence_found": true,
+      "reddit_posts_count": 10
+    },
+    {
+      "device_name": "UNKNOWN B BRAUN IV TUBING",
+      "manufacturer": "HOSPITAL / H\u00d4PITAL; B. BRAUN",
+      "total_incidents": 27,
+      "deaths": 27,
+      "injuries": 0,
+      "malfunctions": 0,
+      "severity_score": 270.0,
+      "legal_merit": [
+        "27 deaths with similar causes",
+        "High incident volume (27 cases)"
+      ],
+      "key_problems": [
+        "mandatory problem report"
+      ],
+      "death_causes": [
+        "mandatory problem report"
+      ],
+      "injury_types": [],
+      "malfunction_types": [],
+      "risk_level": "HIGH",
+      "class_action_status": "NONE_FOUND",
+      "reddit_research_needed": true,
+      "reddit_evidence_found": true,
+      "reddit_posts_count": 10
+    },
+    {
+      "device_name": "UNKNOWN BREAST IMPLANT",
+      "manufacturer": "ABBVIE CORPORATION; ALLERGAN SALES, LLC ALSO DOING BUSINESS AS ALLERGAN",
+      "total_incidents": 109,
+      "deaths": 5,
+      "injuries": 97,
+      "malfunctions": 7,
+      "severity_score": 247.5,
+      "legal_merit": [
+        "5 deaths with similar causes",
+        "97 injuries with repeated patterns",
+        "High incident volume (109 cases)"
+      ],
+      "key_problems": [
+        "mandatory problem report"
+      ],
+      "death_causes": [
+        "mandatory problem report"
+      ],
+      "injury_types": [
+        "mandatory problem report"
+      ],
+      "malfunction_types": [
+        "mandatory problem report"
+      ],
+      "risk_level": "HIGH",
+      "class_action_status": "NONE_FOUND",
+      "reddit_research_needed": true,
+      "reddit_evidence_found": true,
+      "reddit_posts_count": 10
+    },
+    {
+      "device_name": "SMOOTH ROUND HIGH PROFILE SILICONE GEL FILLED BREAST IMPLANTS",
+      "manufacturer": "JOHNSON & JOHNSON MEDTECH, A DIV. OF JOHNSON & JOHNSON (CANADA), INC.; MENTOR",
+      "total_incidents": 51,
+      "deaths": 21,
+      "injuries": 14,
+      "malfunctions": 16,
+      "severity_score": 246.0,
+      "legal_merit": [
+        "21 deaths with similar causes",
+        "14 injuries with repeated patterns",
+        "16 malfunctions indicating design defects",
+        "High incident volume (51 cases)"
+      ],
+      "key_problems": [
+        "mandatory problem report"
+      ],
+      "death_causes": [
+        "mandatory problem report"
+      ],
+      "injury_types": [
+        "mandatory problem report"
+      ],
+      "malfunction_types": [
+        "mandatory problem report"
+      ],
+      "risk_level": "HIGH",
+      "class_action_status": "NONE_FOUND",
+      "reddit_research_needed": true,
+      "reddit_evidence_found": true,
+      "reddit_posts_count": 8
+    }
+  ]
+}

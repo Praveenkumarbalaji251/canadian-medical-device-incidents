@@ -1,0 +1,258 @@
+{
+  "candidates": [
+    {
+      "name": "SPACE INFUSION SYSTEM - INFUSOMAT SPACE VOLUMETRIC INFUSION PUMP",
+      "code": "80FRN",
+      "totalIncidents": 264,
+      "deaths": 0,
+      "injuries": 12,
+      "potentialHarms": 127,
+      "primaryCompany": "HOSPITAL / HÔPITAL",
+      "riskScore": 187.0
+    },
+    {
+      "name": "SMOOTH ROUND MODERATE PLUS PROFILE SILICONE GEL FILLED BREAST IMPLANTS",
+      "code": "79FTR",
+      "totalIncidents": 98,
+      "deaths": 0,
+      "injuries": 21,
+      "potentialHarms": 50,
+      "primaryCompany": "JOHNSON & JOHNSON MEDTECH, A DIV. OF JOHNSON & JOHNSON (CANADA), INC.",
+      "riskScore": 155.0
+    },
+    {
+      "name": "INFUSOMAT SPACE PUMP IV SET WITH ANTI-SIPHON VALVE",
+      "code": "80FPA",
+      "totalIncidents": 76,
+      "deaths": 0,
+      "injuries": 1,
+      "potentialHarms": 15,
+      "primaryCompany": "HOSPITAL / HÔPITAL",
+      "riskScore": 20.0
+    }
+  ],
+  "excluded": [
+    {
+      "device": {
+        "name": "T:SLIM/CONTROL-IQ",
+        "code": "80LZG",
+        "totalIncidents": 221,
+        "deaths": 1,
+        "injuries": 87,
+        "potentialHarms": 131,
+        "primaryCompany": "TANDEM DIABETES CARE, INC.",
+        "riskScore": 576.0
+      },
+      "exclusion_reason": "Known class action manufacturer: T:SLIM"
+    },
+    {
+      "device": {
+        "name": "T:SLIM X2 INSULIN PUMP",
+        "code": "80LZG",
+        "totalIncidents": 171,
+        "deaths": 0,
+        "injuries": 15,
+        "potentialHarms": 113,
+        "primaryCompany": "TANDEM DIABETES CARE, INC.",
+        "riskScore": 188.0
+      },
+      "exclusion_reason": "Known class action manufacturer: T:SLIM"
+    },
+    {
+      "device": {
+        "name": "INFUSOMAT SPACE PUMP IV SET",
+        "code": "80FPA",
+        "totalIncidents": 153,
+        "deaths": 1,
+        "injuries": 0,
+        "potentialHarms": 22,
+        "primaryCompany": "HOSPITAL / HÔPITAL",
+        "riskScore": 32.0
+      },
+      "exclusion_reason": "Found existing litigation discussion: account w/ 200k+ still locked. setting up a class action lawsuit"
+    },
+    {
+      "device": {
+        "name": "DEXCOM G7 SENSOR",
+        "code": "75MDS",
+        "totalIncidents": 148,
+        "deaths": 0,
+        "injuries": 12,
+        "potentialHarms": 69,
+        "primaryCompany": "DEXCOM, INC.",
+        "riskScore": 129.0
+      },
+      "exclusion_reason": "Known class action manufacturer: DEXCOM"
+    },
+    {
+      "device": {
+        "name": "LIFELINE BETA AV-SET ONLINE PLUS BVM 5008-R",
+        "code": "78FIF",
+        "totalIncidents": 121,
+        "deaths": 0,
+        "injuries": 1,
+        "potentialHarms": 43,
+        "primaryCompany": "HOSPITAL / HÔPITAL",
+        "riskScore": 48.0
+      },
+      "exclusion_reason": "Found existing litigation discussion: yale student sues university claiming online courses were inferior, seeks tuition refund, class action status"
+    },
+    {
+      "device": {
+        "name": "PRISMAX CONTROL UNIT",
+        "code": "78RAA",
+        "totalIncidents": 116,
+        "deaths": 1,
+        "injuries": 2,
+        "potentialHarms": 25,
+        "primaryCompany": "HOSPITAL / HÔPITAL",
+        "riskScore": 45.0
+      },
+      "exclusion_reason": "Found existing litigation discussion: trump voter works at job crops. trump is trying to eliminate this program. she now wants a class action suit"
+    },
+    {
+      "device": {
+        "name": "NOVUM IQ LARGE VOLUME PUMP",
+        "code": "80FRN",
+        "totalIncidents": 113,
+        "deaths": 0,
+        "injuries": 7,
+        "potentialHarms": 101,
+        "primaryCompany": "BAXTER CORPORATION",
+        "riskScore": 136.0
+      },
+      "exclusion_reason": "Found existing litigation discussion: how a large corporation tried to discredit a scientist who exposed their product that was being leaked into public water and turned male frogs into hermaphrodite or females. the company later settled a class action lawsuit for $100,000,000 (a hundred million usd)."
+    },
+    {
+      "device": {
+        "name": "UNKNOWN BREAST IMPLANT",
+        "code": "79ZZZ",
+        "totalIncidents": 109,
+        "deaths": 0,
+        "injuries": 97,
+        "potentialHarms": 5,
+        "primaryCompany": "ABBVIE CORPORATION",
+        "riskScore": 490.0
+      },
+      "exclusion_reason": "Found existing litigation discussion: the magineer - chapter 28"
+    },
+    {
+      "device": {
+        "name": "T:SLIM/CONTROL-IQ, REPLACEMENT",
+        "code": "80LZG",
+        "totalIncidents": 93,
+        "deaths": 0,
+        "injuries": 43,
+        "potentialHarms": 50,
+        "primaryCompany": "TANDEM DIABETES CARE, INC.",
+        "riskScore": 265.0
+      },
+      "exclusion_reason": "Known class action manufacturer: T:SLIM"
+    },
+    {
+      "device": {
+        "name": "T:SLIM X2 CARTRIDGE",
+        "code": "80LZG",
+        "totalIncidents": 92,
+        "deaths": 0,
+        "injuries": 46,
+        "potentialHarms": 46,
+        "primaryCompany": "TANDEM DIABETES CARE, INC.",
+        "riskScore": 276.0
+      },
+      "exclusion_reason": "Known class action manufacturer: T:SLIM"
+    },
+    {
+      "device": {
+        "name": "T:SLIM X2 INSULIN PUMP WITH CONTROL-IQ TECHNOLOGY",
+        "code": "80VBH",
+        "totalIncidents": 76,
+        "deaths": 0,
+        "injuries": 21,
+        "potentialHarms": 55,
+        "primaryCompany": "TANDEM DIABETES CARE, INC.",
+        "riskScore": 160.0
+      },
+      "exclusion_reason": "Known class action manufacturer: T:SLIM"
+    },
+    {
+      "device": {
+        "name": "SALINE-FILLED MAMMARY PROSTHESES WITH DIAPHRAGM VALVE",
+        "code": "79AVO",
+        "totalIncidents": 72,
+        "deaths": 0,
+        "injuries": 5,
+        "potentialHarms": 53,
+        "primaryCompany": "JOHNSON & JOHNSON MEDTECH, A DIV. OF JOHNSON & JOHNSON (CANADA), INC.",
+        "riskScore": 78.0
+      },
+      "exclusion_reason": "Found existing litigation discussion: another \"glitch\" in the system?"
+    },
+    {
+      "device": {
+        "name": "MINICAP EXTENDED LIFE PD TRANSFER SET W/TWIST CLAMP",
+        "code": "78RKL",
+        "totalIncidents": 62,
+        "deaths": 0,
+        "injuries": 3,
+        "potentialHarms": 12,
+        "primaryCompany": "HOSPITAL / HÔPITAL",
+        "riskScore": 27.0
+      },
+      "exclusion_reason": "Found existing litigation discussion: fired for being fat"
+    },
+    {
+      "device": {
+        "name": "OMNIPOD DASH, PODS 10-PACK",
+        "code": "80LHE",
+        "totalIncidents": 61,
+        "deaths": 0,
+        "injuries": 39,
+        "potentialHarms": 20,
+        "primaryCompany": "INSULET CORPORATION",
+        "riskScore": 215.0
+      },
+      "exclusion_reason": "Known class action manufacturer: OMNIPOD"
+    },
+    {
+      "device": {
+        "name": "DEXCOM G6 SENSOR",
+        "code": "75MDS",
+        "totalIncidents": 60,
+        "deaths": 0,
+        "injuries": 20,
+        "potentialHarms": 19,
+        "primaryCompany": "DEXCOM, INC.",
+        "riskScore": 119.0
+      },
+      "exclusion_reason": "Known class action manufacturer: DEXCOM"
+    },
+    {
+      "device": {
+        "name": "BIPAP A40 PRO, CA",
+        "code": "73CBK",
+        "totalIncidents": 59,
+        "deaths": 0,
+        "injuries": 0,
+        "potentialHarms": 59,
+        "primaryCompany": "RESPIRONICS INC. ALSO TRADING AS PHILIPS RS NORTH AMERICA LLC",
+        "riskScore": 59.0
+      },
+      "exclusion_reason": "Found existing litigation discussion: a third class action has been filed against apple in california over macbook pro keyboard problems"
+    },
+    {
+      "device": {
+        "name": "INGEVITY+ EXTENDABLE/RETRACTABLE FIXATION",
+        "code": "74UCH",
+        "totalIncidents": 56,
+        "deaths": 0,
+        "injuries": 56,
+        "potentialHarms": 0,
+        "primaryCompany": "HOSPITAL / HÔPITAL",
+        "riskScore": 280.0
+      },
+      "exclusion_reason": "Found existing litigation discussion: [new update]: aita for not wanting to wear a different bridesmaid dress?"
+    }
+  ],
+  "analysis_date": "2025-10-05T21:46:00.059228"
+}

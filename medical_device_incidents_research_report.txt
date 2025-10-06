@@ -1,0 +1,67 @@
+MEDICAL DEVICE INCIDENTS RESEARCH REPORT
+==================================================
+Generated: 2025-10-05 14:56:40
+Data Period: September 2024 - September 2025
+Total Incidents Analyzed: 6,970
+
+1. TEMPORAL PATTERNS ANALYSIS
+------------------------------
+Peak Month: Month 1 (1179 incidents)
+Lowest Month: Month 9 (627 incidents)
+Most Severe Month: Month 9
+Highest Death Month: Month 3
+
+Weekend vs Weekday Analysis:
+- Weekend incidents: 139
+- Weekday incidents: 6831
+- Weekend severity: 3.27
+- Weekday severity: 3.08
+
+2. RISK FACTORS ANALYSIS
+------------------------------
+Risk by Incident Type (Top 5):
+- Batch Entries (compiled foreign mandatory reports): 100.0% severe
+- Voluntary and Mandatory problem reports: 66.67% severe
+- Mandatory problem report: 49.78% severe
+- Summary mandatory reports: 27.59% severe
+- Mandatory problem report linked to a recall: 25.51% severe
+
+3. PREDICTIVE MODELING RESULTS
+------------------------------
+Model Accuracy: 0.695
+Precision: 0.590
+Recall: 0.707
+F1-Score: 0.643
+
+Most Important Predictive Factors:
+- incident_type_encoded: 0.645
+- weekday: 0.148
+- month: 0.137
+- quarter: 0.064
+- is_weekend: 0.005
+
+4. STATISTICAL TESTS
+------------------------------
+Weekend vs Weekday Severity Test:
+- P-value: 0.015042
+- Significant: True
+- Interpretation: Weekend incidents are significantly different in severity
+
+5. DEVICE ANALYSIS
+------------------------------
+Highest Risk Device Categories:
+- *GENERAL & HOSPITAL EQUIPMENT: 100.0% death rate
+- MICROBIOLOGY: 20.0% death rate
+- PATHOLOGY: 11.11% death rate
+- NEUROLOGY: 9.8% death rate
+- CARDIOVASCULAR: 4.89% death rate
+
+6. COMPANY ANALYSIS
+------------------------------
+Companies with Highest Incident Counts:
+- HOSPITAL / HÔPITAL: 3910 incidents
+- TANDEM DIABETES CARE, INC.: 731 incidents
+- TANDEM DIABETES CARE CANADA, INC.: 617 incidents
+- JOHNSON & JOHNSON MEDTECH, A DIV. OF JOHNSON & JOHNSON (CANADA), INC.: 614 incidents
+- ABBVIE CORPORATION: 542 incidents
+

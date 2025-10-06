@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+dashboard/node_modules/
+
+# Production builds
+dashboard/build/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+npm-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Deployment
+.vercel
+.netlify
+
+# Temporary files
+*.tmp
+*.temp
+medical-dashboard-build.zip

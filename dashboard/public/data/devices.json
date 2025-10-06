@@ -1,0 +1,452 @@
+[
+  {
+    "name": "SPACE INFUSION SYSTEM - INFUSOMAT SPACE VOLUMETRIC INFUSION PUMP",
+    "incidents": 264,
+    "riskScore": 2.11,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL; B. BRAUN MELSUNGEN AG; B. BRAUN US DEVICE MANUFACTURING LLC.",
+    "category": "GENERAL HOSPITAL",
+    "riskClass": "3",
+    "riskLevel": "High"
+  },
+  {
+    "name": "T:SLIM/CONTROL-IQ",
+    "incidents": 221,
+    "riskScore": 3.39,
+    "manufacturer": "TANDEM DIABETES CARE, INC.",
+    "category": "GENERAL HOSPITAL",
+    "riskClass": "4",
+    "riskLevel": "High"
+  },
+  {
+    "name": "T:SLIM X2 INSULIN PUMP",
+    "incidents": 171,
+    "riskScore": 2.84,
+    "manufacturer": "TANDEM DIABETES CARE, INC.; TANDEM DIABETES CARE CANADA, INC.",
+    "category": "UNDEFINED",
+    "riskClass": "3",
+    "riskLevel": "High"
+  },
+  {
+    "name": "INFUSOMAT SPACE PUMP IV SET",
+    "incidents": 153,
+    "riskScore": 1.31,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL; B. BRAUN MEDICAL INC.; B. BRAUN US DEVICE MANUFACTURING LLC.",
+    "category": "GENERAL HOSPITAL",
+    "riskClass": "2",
+    "riskLevel": "High"
+  },
+  {
+    "name": "DEXCOM G7 SENSOR",
+    "incidents": 148,
+    "riskScore": 2.63,
+    "manufacturer": "DEXCOM, INC.",
+    "category": "CHEMISTRY",
+    "riskClass": "3",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "LIFELINE BETA AV-SET ONLINE PLUS BVM 5008-R",
+    "incidents": 121,
+    "riskScore": 1.74,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL; FRESENIUS MEDICAL CARE CANADA, INC.; FRESENIUS MEDICAL CARE AG",
+    "category": "GASTROENTEROLOGY & UROLOGY",
+    "riskClass": "2",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "PRISMAX CONTROL UNIT",
+    "incidents": 116,
+    "riskScore": 1.52,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL",
+    "category": "GASTROENTEROLOGY & UROLOGY",
+    "riskClass": "3",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "NOVUM IQ LARGE VOLUME PUMP",
+    "incidents": 113,
+    "riskScore": 3.01,
+    "manufacturer": "BAXTER CORPORATION; BAXTER HEALTHCARE CORPORATION",
+    "category": "GENERAL HOSPITAL",
+    "riskClass": "3",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "UNKNOWN BREAST IMPLANT",
+    "incidents": 109,
+    "riskScore": 3.82,
+    "manufacturer": "ABBVIE CORPORATION; ALLERGAN SALES, LLC ALSO DOING BUSINESS AS ALLERGAN",
+    "category": "GENERAL & PLASTIC SURGERY",
+    "riskClass": "4",
+    "riskLevel": "High"
+  },
+  {
+    "name": "SMOOTH ROUND MODERATE PLUS PROFILE SILICONE GEL FILLED BREAST IMPLANTS",
+    "incidents": 98,
+    "riskScore": 2.94,
+    "manufacturer": "JOHNSON & JOHNSON MEDTECH, A DIV. OF JOHNSON & JOHNSON (CANADA), INC.; MENTOR",
+    "category": "GENERAL & PLASTIC SURGERY",
+    "riskClass": "4",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "T:SLIM/CONTROL-IQ, REPLACEMENT",
+    "incidents": 93,
+    "riskScore": 3.46,
+    "manufacturer": "TANDEM DIABETES CARE, INC.",
+    "category": "GENERAL HOSPITAL",
+    "riskClass": "4",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "T:SLIM X2 CARTRIDGE",
+    "incidents": 92,
+    "riskScore": 3.5,
+    "manufacturer": "TANDEM DIABETES CARE, INC.",
+    "category": "GENERAL HOSPITAL",
+    "riskClass": "3",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "T:SLIM X2 INSULIN PUMP WITH CONTROL-IQ TECHNOLOGY",
+    "incidents": 76,
+    "riskScore": 3.28,
+    "manufacturer": "TANDEM DIABETES CARE, INC.; TANDEM DIABETES CARE CANADA, INC.",
+    "category": "GENERAL HOSPITAL",
+    "riskClass": "4",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "INFUSOMAT SPACE PUMP IV SET WITH ANTI-SIPHON VALVE",
+    "incidents": 76,
+    "riskScore": 1.43,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL; CARDINAL HEALTH; B. BRAUN",
+    "category": "GENERAL HOSPITAL",
+    "riskClass": "2",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "SALINE-FILLED MAMMARY PROSTHESES WITH DIAPHRAGM VALVE",
+    "incidents": 72,
+    "riskScore": 2.88,
+    "manufacturer": "JOHNSON & JOHNSON MEDTECH, A DIV. OF JOHNSON & JOHNSON (CANADA), INC.; MENTOR",
+    "category": "GENERAL & PLASTIC SURGERY",
+    "riskClass": "4",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "MINICAP EXTENDED LIFE PD TRANSFER SET W/TWIST CLAMP",
+    "incidents": 62,
+    "riskScore": 1.53,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL; BAXTER CORPORATION; BAXTER HEALTHCARE CORPORATION",
+    "category": "GASTROENTEROLOGY & UROLOGY",
+    "riskClass": "2",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "OMNIPOD DASH, PODS 10-PACK",
+    "incidents": 61,
+    "riskScore": 3.61,
+    "manufacturer": "INSULET CORPORATION; INSULET CANADA CORPORATION",
+    "category": "GENERAL HOSPITAL",
+    "riskClass": "2",
+    "riskLevel": "High"
+  },
+  {
+    "name": "DEXCOM G6 SENSOR",
+    "incidents": 60,
+    "riskScore": 2.98,
+    "manufacturer": "DEXCOM, INC.",
+    "category": "CHEMISTRY",
+    "riskClass": "3",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "BIPAP A40 PRO, CA",
+    "incidents": 59,
+    "riskScore": 3.0,
+    "manufacturer": "RESPIRONICS INC. ALSO TRADING AS PHILIPS RS NORTH AMERICA LLC",
+    "category": "ANESTHESIOLOGY",
+    "riskClass": "3",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "INGEVITY+ EXTENDABLE/RETRACTABLE FIXATION",
+    "incidents": 56,
+    "riskScore": 4.0,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL; BOSTON SCIENTIFIC LTD.; BOSTON SCIENTIFIC CORPORATION",
+    "category": "CARDIOVASCULAR",
+    "riskClass": "4",
+    "riskLevel": "High"
+  },
+  {
+    "name": "COOLSCULPTING SYSTEM - CONTROL UNIT",
+    "incidents": 54,
+    "riskScore": 3.93,
+    "manufacturer": "ZELTIQ AESTHETICS, INC.; ABBVIE CORPORATION",
+    "category": "PHYSICAL MEDICINE",
+    "riskClass": "3",
+    "riskLevel": "High"
+  },
+  {
+    "name": "KANGAROO OMNI ENTERAL FEEDING PUMP",
+    "incidents": 53,
+    "riskScore": 1.79,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL; CARDINAL HEALTH CANADA INC.; CARDINAL HEALTH 200, LLC ALSO TRADING AS CARDINAL HEALTH",
+    "category": "GENERAL HOSPITAL",
+    "riskClass": "2",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "PRISMAFLEX HAEMODIALYSIS SETS WITH FILTER; PRISMAX CONTROL UNIT",
+    "incidents": 52,
+    "riskScore": 1.0,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL; GAMBRO INDUSTRIES; BAXTER HEALTHCARE SA",
+    "category": "GASTROENTEROLOGY & UROLOGY",
+    "riskClass": "3",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "CONTROL-IQ TECHNOLOGY",
+    "incidents": 52,
+    "riskScore": 3.42,
+    "manufacturer": "TANDEM DIABETES CARE, INC.; TANDEM DIABETES CARE CANADA, INC.",
+    "category": "GENERAL HOSPITAL",
+    "riskClass": "4",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "SMOOTH ROUND HIGH PROFILE SILICONE GEL FILLED BREAST IMPLANTS",
+    "incidents": 51,
+    "riskScore": 2.96,
+    "manufacturer": "JOHNSON & JOHNSON MEDTECH, A DIV. OF JOHNSON & JOHNSON (CANADA), INC.; MENTOR",
+    "category": "GENERAL & PLASTIC SURGERY",
+    "riskClass": "4",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "NATRELLE INSPIRA SSF TRUFORM 2 (SOFT TOUCH)",
+    "incidents": 43,
+    "riskScore": 3.86,
+    "manufacturer": "ABBVIE CORPORATION; ALLERGAN SALES, LLC ALSO DOING BUSINESS AS ALLERGAN",
+    "category": "GENERAL & PLASTIC SURGERY",
+    "riskClass": "4",
+    "riskLevel": "High"
+  },
+  {
+    "name": "ACCOLADE MRI PACEMAKER",
+    "incidents": 43,
+    "riskScore": 3.95,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL; BOSTON SCIENTIFIC LTD.; BOSTON SCIENTIFIC CORPORATION",
+    "category": "CARDIOVASCULAR",
+    "riskClass": "4",
+    "riskLevel": "High"
+  },
+  {
+    "name": "UNKNOWN RENAL DISPOSABLE WITH CASSETTE BAXTER",
+    "incidents": 42,
+    "riskScore": 4.07,
+    "manufacturer": "BAXTER CORPORATION",
+    "category": "UNDEFINED",
+    "riskClass": "2",
+    "riskLevel": "High"
+  },
+  {
+    "name": "SMOOTH ROUND MODERATE PLUS PROFILE SALINE BREAST IMPLANT W/DIAPHRAGM VALVE",
+    "incidents": 39,
+    "riskScore": 2.77,
+    "manufacturer": "JOHNSON & JOHNSON MEDTECH, A DIV. OF JOHNSON & JOHNSON (CANADA), INC.; MENTOR",
+    "category": "GENERAL & PLASTIC SURGERY",
+    "riskClass": "4",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "STYLE 68 SMOOTH, ROUND SALINE-FILLED BREAST IMPLANT W/FILL TUBE & BIOCELL S",
+    "incidents": 38,
+    "riskScore": 3.95,
+    "manufacturer": "ABBVIE CORPORATION; ALLERGAN SALES, LLC ALSO DOING BUSINESS AS ALLERGAN",
+    "category": "GENERAL & PLASTIC SURGERY",
+    "riskClass": "4",
+    "riskLevel": "High"
+  },
+  {
+    "name": "RELIANCE 4-FRONT - SINGLE SHOCK COIL WITH SILICONE IN-FILL",
+    "incidents": 35,
+    "riskScore": 3.86,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL; BOSTON SCIENTIFIC LTD.; BOSTON SCIENTIFIC CORPORATION",
+    "category": "CARDIOVASCULAR",
+    "riskClass": "4",
+    "riskLevel": "High"
+  },
+  {
+    "name": "UNKNOWN B BRAUN INFUSION PUMP",
+    "incidents": 35,
+    "riskScore": 3.06,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL; B. BRAUN MEDICAL INC.",
+    "category": "UNDEFINED",
+    "riskClass": "0",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "TEGO CATHETER CONNECTOR",
+    "incidents": 31,
+    "riskScore": 1.23,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL; NIPRO CANADA CORPORATION; ICU MEDICAL INC.",
+    "category": "GENERAL HOSPITAL",
+    "riskClass": "2",
+    "riskLevel": "Low"
+  },
+  {
+    "name": "B-D LUER-LOK TIP SYRINGE",
+    "incidents": 30,
+    "riskScore": 2.63,
+    "manufacturer": "BECTON DICKINSON AND COMPANY; BECTON DICKINSON CANADA INC.",
+    "category": "GENERAL HOSPITAL",
+    "riskClass": "2",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "NATRELLE INSPIRA SSM TRUFORM 2 (SOFT TOUCH)",
+    "incidents": 30,
+    "riskScore": 3.63,
+    "manufacturer": "ABBVIE CORPORATION; ALLERGAN SALES, LLC ALSO DOING BUSINESS AS ALLERGAN",
+    "category": "GENERAL & PLASTIC SURGERY",
+    "riskClass": "4",
+    "riskLevel": "High"
+  },
+  {
+    "name": "EMBLEM MRI S-ICD PG",
+    "incidents": 30,
+    "riskScore": 3.87,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL; BOSTON SCIENTIFIC LTD.; BOSTON SCIENTIFIC CORPORATION",
+    "category": "CARDIOVASCULAR",
+    "riskClass": "4",
+    "riskLevel": "High"
+  },
+  {
+    "name": "SAFETY GLIDE SHIELDING IM INJECTION NEEDLE",
+    "incidents": 27,
+    "riskScore": 2.63,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL; BECTON DICKINSON AND COMPANY; BECTON DICKINSON CANADA INC.",
+    "category": "GENERAL & PLASTIC SURGERY",
+    "riskClass": "2",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "UNKNOWN B BRAUN IV TUBING",
+    "incidents": 27,
+    "riskScore": 3.0,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL; B. BRAUN",
+    "category": "UNDEFINED",
+    "riskClass": "0",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "HEARTMATE 3 LVAS IMPLANT KIT",
+    "incidents": 26,
+    "riskScore": 4.08,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL; ABBOTT MEDICAL CANADA CO.; ABBOTT MEDICAL",
+    "category": "CARDIOVASCULAR",
+    "riskClass": "4",
+    "riskLevel": "High"
+  },
+  {
+    "name": "MIC-KEY KIT",
+    "incidents": 26,
+    "riskScore": 1.08,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL; O & M HALYARD, INC.; AVANOS MEDICAL, INC.",
+    "category": "GASTROENTEROLOGY & UROLOGY",
+    "riskClass": "3",
+    "riskLevel": "Low"
+  },
+  {
+    "name": "UNKNOWN - DEVICE DETAILS NOT PROVIDED BY COMPLAINANT",
+    "incidents": 26,
+    "riskScore": 3.27,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL; ZIMMER INC.; ZIMMER BIOMET CANADA INC.",
+    "category": "UNDEFINED",
+    "riskClass": "0",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "FINELINE II STEROX",
+    "incidents": 24,
+    "riskScore": 3.92,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL; BOSTON SCIENTIFIC LTD.; BOSTON SCIENTIFIC CORPORATION",
+    "category": "CARDIOVASCULAR",
+    "riskClass": "4",
+    "riskLevel": "High"
+  },
+  {
+    "name": "ENDOSCOPIC ULTRA-SOUND BALLOON",
+    "incidents": 24,
+    "riskScore": 2.96,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL; PENTAX CANADA INC.; HOYA CORPORATION",
+    "category": "GASTROENTEROLOGY & UROLOGY",
+    "riskClass": "2",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "HARMONIC 1100 SHEARS",
+    "incidents": 23,
+    "riskScore": 1.61,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL; ETHICON INC.",
+    "category": "GENERAL & PLASTIC SURGERY",
+    "riskClass": "2",
+    "riskLevel": "Low"
+  },
+  {
+    "name": "NATRELLE INSPIRA SSX TRUFORM 2 (SOFT TOUCH)",
+    "incidents": 23,
+    "riskScore": 3.96,
+    "manufacturer": "ABBVIE CORPORATION; ALLERGAN SALES, LLC ALSO DOING BUSINESS AS ALLERGAN",
+    "category": "GENERAL & PLASTIC SURGERY",
+    "riskClass": "4",
+    "riskLevel": "High"
+  },
+  {
+    "name": "SMOOTH ROUND HIGH PROFILE SILICONE GEL FILLED BREAST IMPLANTS COHESIVE 1",
+    "incidents": 22,
+    "riskScore": 3.09,
+    "manufacturer": "JOHNSON & JOHNSON MEDTECH, A DIV. OF JOHNSON & JOHNSON (CANADA), INC.; MENTOR MEDICAL SYSTEMS, B.V.",
+    "category": "GENERAL & PLASTIC SURGERY",
+    "riskClass": "4",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "5008 CORDIAX - HEMODIALYSIS MACHINE, VERSION 5008 ONLINEPLUS",
+    "incidents": 22,
+    "riskScore": 2.73,
+    "manufacturer": "FRESENIUS MEDICAL CARE AG; FRASER HEALTH",
+    "category": "GASTROENTEROLOGY & UROLOGY",
+    "riskClass": "3",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "MENTOR MEMORY GEL XTRA BREAST IMPLANT, SMOOTH HIGH PROFILE XTRA SILICONE GEL FILLED BREAST IMPLANT",
+    "incidents": 22,
+    "riskScore": 3.32,
+    "manufacturer": "JOHNSON & JOHNSON MEDTECH, A DIV. OF JOHNSON & JOHNSON (CANADA), INC.; MENTOR",
+    "category": "GENERAL & PLASTIC SURGERY",
+    "riskClass": "4",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "DREAMSTATION AUTO CPAP",
+    "incidents": 21,
+    "riskScore": 3.43,
+    "manufacturer": "RESPIRONICS INC. ALSO TRADING AS PHILIPS RS NORTH AMERICA LLC",
+    "category": "ANESTHESIOLOGY",
+    "riskClass": "2",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "POWERPICC SOLO2 CATHETER, FULL TRAY (WITH SHERLOCK 3CG TPS STYLET)",
+    "incidents": 21,
+    "riskScore": 1.57,
+    "manufacturer": "HOSPITAL / H\u00d4PITAL; BARD ACCESS SYSTEMS, INC.; BECTON DICKINSON CANADA INC.",
+    "category": "CARDIOVASCULAR",
+    "riskClass": "3",
+    "riskLevel": "Low"
+  }
+]

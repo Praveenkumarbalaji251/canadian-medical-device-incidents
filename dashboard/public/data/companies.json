@@ -1,0 +1,352 @@
+[
+  {
+    "name": "TANDEM DIABETES CARE, INC.; TANDEM DIABETES CARE CANADA, INC.",
+    "incidents": 589,
+    "riskScore": 3.23,
+    "role": "(MANUFACTURER); (IMPORTER)",
+    "riskLevel": "High"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; BOSTON SCIENTIFIC LTD.; BOSTON SCIENTIFIC CORPORATION",
+    "incidents": 371,
+    "riskScore": 3.81,
+    "role": "(HOSPITAL); (IMPORTER); (MANUFACTURER)",
+    "riskLevel": "High"
+  },
+  {
+    "name": "ABBVIE CORPORATION; ALLERGAN SALES, LLC ALSO DOING BUSINESS AS ALLERGAN",
+    "incidents": 355,
+    "riskScore": 3.89,
+    "role": "(IMPORTER); (MANUFACTURER)",
+    "riskLevel": "High"
+  },
+  {
+    "name": "JOHNSON & JOHNSON MEDTECH, A DIV. OF JOHNSON & JOHNSON (CANADA), INC.; MENTOR",
+    "incidents": 345,
+    "riskScore": 2.93,
+    "role": "(IMPORTER); (MANUFACTURER)",
+    "riskLevel": "High"
+  },
+  {
+    "name": "DEXCOM, INC.",
+    "incidents": 213,
+    "riskScore": 2.75,
+    "role": "(MANUFACTURER)",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL",
+    "incidents": 207,
+    "riskScore": 3.07,
+    "role": "(HOSPITAL)",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; B. BRAUN MEDICAL INC.; B. BRAUN US DEVICE MANUFACTURING LLC.",
+    "incidents": 166,
+    "riskScore": 1.14,
+    "role": "(HOSPITAL); (MANUFACTURER); (IMPORTER)",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; B. BRAUN MELSUNGEN AG",
+    "incidents": 157,
+    "riskScore": 2.28,
+    "role": "(HOSPITAL); (MANUFACTURER)",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; BAXTER CORPORATION; BAXTER HEALTHCARE CORPORATION",
+    "incidents": 137,
+    "riskScore": 2.75,
+    "role": "(HOSPITAL); (IMPORTER); (MANUFACTURER)",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "TANDEM DIABETES CARE, INC.",
+    "incidents": 137,
+    "riskScore": 3.47,
+    "role": "(MANUFACTURER)",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "SMITH & NEPHEW, INC.",
+    "incidents": 120,
+    "riskScore": 3.98,
+    "role": "(IMPORTER); (MANUFACTURER)",
+    "riskLevel": "High"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; ABBOTT MEDICAL CANADA CO.; ABBOTT MEDICAL",
+    "incidents": 107,
+    "riskScore": 3.96,
+    "role": "(HOSPITAL); (IMPORTER); (MANUFACTURER)",
+    "riskLevel": "High"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; MEDTRONIC CANADA ULC; MEDTRONIC INC.",
+    "incidents": 104,
+    "riskScore": 3.87,
+    "role": "(HOSPITAL); (IMPORTER); (MANUFACTURER)",
+    "riskLevel": "High"
+  },
+  {
+    "name": "MEDTRONIC CANADA ULC; MEDTRONIC MINIMED",
+    "incidents": 95,
+    "riskScore": 4.12,
+    "role": "(IMPORTER); (MANUFACTURER)",
+    "riskLevel": "High"
+  },
+  {
+    "name": "ALLERGAN; ABBVIE CORPORATION",
+    "incidents": 86,
+    "riskScore": 3.85,
+    "role": "(MANUFACTURER); (IMPORTER)",
+    "riskLevel": "High"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; B. BRAUN MELSUNGEN AG; B. BRAUN US DEVICE MANUFACTURING LLC.",
+    "incidents": 86,
+    "riskScore": 2.02,
+    "role": "(HOSPITAL); (MANUFACTURER); (IMPORTER)",
+    "riskLevel": "Low"
+  },
+  {
+    "name": "RESPIRONICS INC. ALSO TRADING AS PHILIPS RS NORTH AMERICA LLC",
+    "incidents": 86,
+    "riskScore": 3.27,
+    "role": "(MANUFACTURER)",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "JOHNSON & JOHNSON MEDTECH, A DIV. OF JOHNSON & JOHNSON (CANADA), INC.; MENTOR MEDICAL SYSTEMS, B.V.",
+    "incidents": 82,
+    "riskScore": 3.02,
+    "role": "(IMPORTER); (MANUFACTURER)",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; FRESENIUS MEDICAL CARE CANADA, INC.; FRESENIUS MEDICAL CARE AG",
+    "incidents": 80,
+    "riskScore": 1.65,
+    "role": "(HOSPITAL); (IMPORTER); (MANUFACTURER)",
+    "riskLevel": "Low"
+  },
+  {
+    "name": "INSULET CORPORATION; INSULET CANADA CORPORATION",
+    "incidents": 79,
+    "riskScore": 3.65,
+    "role": "(MANUFACTURER); (IMPORTER)",
+    "riskLevel": "High"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; COVIDIEN LLC; MEDTRONIC CANADA ULC",
+    "incidents": 75,
+    "riskScore": 1.72,
+    "role": "(HOSPITAL); (MANUFACTURER); (IMPORTER)",
+    "riskLevel": "Low"
+  },
+  {
+    "name": "UNASSIGNED / NON ATTRIBUE; HOSPITAL / H\u00d4PITAL",
+    "incidents": 74,
+    "riskScore": 3.07,
+    "role": "(MANUFACTURER, IMPORTER); (HOSPITAL)",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "BECTON DICKINSON AND COMPANY; BECTON DICKINSON CANADA INC.",
+    "incidents": 73,
+    "riskScore": 2.95,
+    "role": "(MANUFACTURER); (IMPORTER)",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; BAXTER CORPORATION; BAXTER HEALTHCARE SA",
+    "incidents": 72,
+    "riskScore": 1.5,
+    "role": "(HOSPITAL); (IMPORTER); (MANUFACTURER)",
+    "riskLevel": "Low"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; B. BRAUN MEDICAL INC.",
+    "incidents": 64,
+    "riskScore": 2.47,
+    "role": "(HOSPITAL); (MANUFACTURER)",
+    "riskLevel": "Low"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; B. BRAUN",
+    "incidents": 62,
+    "riskScore": 1.74,
+    "role": "(HOSPITAL); (MANUFACTURER)",
+    "riskLevel": "Low"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; JOHNSON & JOHNSON MEDTECH, A DIV. OF JOHNSON & JOHNSON (CANADA), INC.; ETHICON ENDO-SURGERY, LLC",
+    "incidents": 55,
+    "riskScore": 1.47,
+    "role": "(HOSPITAL); (IMPORTER); (MANUFACTURER)",
+    "riskLevel": "Low"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; RESPIRONICS INC. ALSO TRADING AS PHILIPS RS NORTH AMERICA LLC",
+    "incidents": 55,
+    "riskScore": 3.04,
+    "role": "(HOSPITAL); (MANUFACTURER)",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; CARDINAL HEALTH CANADA INC.; CARDINAL HEALTH 200, LLC ALSO TRADING AS CARDINAL HEALTH",
+    "incidents": 52,
+    "riskScore": 1.69,
+    "role": "(HOSPITAL); (IMPORTER); (MANUFACTURER)",
+    "riskLevel": "Low"
+  },
+  {
+    "name": "ZELTIQ AESTHETICS, INC.; ABBVIE CORPORATION",
+    "incidents": 52,
+    "riskScore": 3.92,
+    "role": "(MANUFACTURER); (IMPORTER)",
+    "riskLevel": "High"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; BECTON DICKINSON AND COMPANY; BECTON DICKINSON CANADA INC.",
+    "incidents": 52,
+    "riskScore": 2.77,
+    "role": "(HOSPITAL); (MANUFACTURER); (IMPORTER)",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; EDWARDS LIFESCIENCES (CANADA) INC.; EDWARDS LIFESCIENCES LLC",
+    "incidents": 50,
+    "riskScore": 3.86,
+    "role": "(HOSPITAL); (IMPORTER); (MANUFACTURER)",
+    "riskLevel": "High"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; BAXTER HEALTHCARE CORPORATION",
+    "incidents": 41,
+    "riskScore": 1.56,
+    "role": "(HOSPITAL); (MANUFACTURER)",
+    "riskLevel": "Low"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; MEDTRONIC CANADA ULC; MEDTRONIC COREVALVE LLC",
+    "incidents": 39,
+    "riskScore": 3.26,
+    "role": "(HOSPITAL); (IMPORTER); (MANUFACTURER)",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; BECTON DICKINSON CANADA INC.; CAREFUSION 303, INC.",
+    "incidents": 37,
+    "riskScore": 3.22,
+    "role": "(HOSPITAL); (IMPORTER); (MANUFACTURER)",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; FRESENIUS MEDICAL CARE AG",
+    "incidents": 37,
+    "riskScore": 2.0,
+    "role": "(HOSPITAL); (MANUFACTURER, IMPORTER)",
+    "riskLevel": "Low"
+  },
+  {
+    "name": "ALLERGAN, INC.; ABBVIE CORPORATION",
+    "incidents": 36,
+    "riskScore": 3.97,
+    "role": "(MANUFACTURER); (IMPORTER)",
+    "riskLevel": "High"
+  },
+  {
+    "name": "AMO CANADA COMPANY; JOHNSON & JOHNSON SURGICAL VISION, INC.",
+    "incidents": 35,
+    "riskScore": 3.6,
+    "role": "(IMPORTER); (MANUFACTURER)",
+    "riskLevel": "High"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; JOHNSON & JOHNSON MEDTECH, A DIV. OF JOHNSON & JOHNSON (CANADA), INC.; BIOSENSE WEBSTER, INC.",
+    "incidents": 34,
+    "riskScore": 1.88,
+    "role": "(HOSPITAL); (IMPORTER); (MANUFACTURER)",
+    "riskLevel": "Low"
+  },
+  {
+    "name": "BAXTER CORPORATION; BAXTER HEALTHCARE CORPORATION",
+    "incidents": 33,
+    "riskScore": 3.21,
+    "role": "(IMPORTER); (MANUFACTURER)",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; STRYKER CANADA ULC; HOWMEDICA OSTEONICS CORPORATION",
+    "incidents": 33,
+    "riskScore": 3.97,
+    "role": "(HOSPITAL); (IMPORTER); (MANUFACTURER)",
+    "riskLevel": "High"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; OLYMPUS MEDICAL SYSTEMS CORP.; OLYMPUS CANADA INC.",
+    "incidents": 32,
+    "riskScore": 2.44,
+    "role": "(HOSPITAL); (MANUFACTURER); (IMPORTER)",
+    "riskLevel": "Low"
+  },
+  {
+    "name": "BAXTER CORPORATION",
+    "incidents": 31,
+    "riskScore": 4.06,
+    "role": "(IMPORTER)",
+    "riskLevel": "High"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; BAXTER HEALTHCARE CORPORATION; VANTIVE ULC",
+    "incidents": 28,
+    "riskScore": 1.11,
+    "role": "(HOSPITAL); (MANUFACTURER); (IMPORTER)",
+    "riskLevel": "Low"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; ZIMMER BIOMET CANADA INC.; ZIMMER SURGICAL, INC. ALSO TRADING AS RELIGN CORPORATION",
+    "incidents": 27,
+    "riskScore": 3.85,
+    "role": "(HOSPITAL); (IMPORTER); (MANUFACTURER)",
+    "riskLevel": "High"
+  },
+  {
+    "name": "BIOMET 3I; ZIMMER BIOMET DENTAL CANADA, INC.",
+    "incidents": 26,
+    "riskScore": 4.0,
+    "role": "(MANUFACTURER); (IMPORTER)",
+    "riskLevel": "High"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; JOHNSON & JOHNSON MEDTECH, A DIV. OF JOHNSON & JOHNSON (CANADA), INC.; ETHICON LLC",
+    "incidents": 25,
+    "riskScore": 3.4,
+    "role": "(HOSPITAL); (IMPORTER); (MANUFACTURER)",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "UNOMEDICAL A/S; TANDEM DIABETES CARE CANADA, INC.",
+    "incidents": 24,
+    "riskScore": 3.92,
+    "role": "(MANUFACTURER); (IMPORTER)",
+    "riskLevel": "High"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; PENTAX CANADA INC.; HOYA CORPORATION",
+    "incidents": 24,
+    "riskScore": 2.96,
+    "role": "(HOSPITAL); (IMPORTER); (MANUFACTURER)",
+    "riskLevel": "Medium"
+  },
+  {
+    "name": "HOSPITAL / H\u00d4PITAL; CARDINAL HEALTH CANADA INC.; CARDINAL HEALTH",
+    "incidents": 23,
+    "riskScore": 1.0,
+    "role": "(HOSPITAL); (IMPORTER); (MANUFACTURER)",
+    "riskLevel": "Low"
+  }
+]

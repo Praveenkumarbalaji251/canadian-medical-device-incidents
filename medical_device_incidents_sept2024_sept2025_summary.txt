@@ -1,0 +1,42 @@
+Medical Device Incidents Data Summary
+========================================
+
+Total Records: 6970
+Date Range: September 2024 - September 2025
+
+Columns:
+ 1. INCIDENT_ID
+ 2. INCIDENT_TYPE_E
+ 3. INCIDENT_TYPE_F
+ 4. RECEIPT_DT
+ 5. SOURCE_OF_RECALL_E
+ 6. SOURCE_OF_RECALL_F
+ 7. HAZARD_SEVERITY_CODE_E
+ 8. HAZARD_SEVERITY_CODE_F
+ 9. INC_AWARE_DT
+10. MANDATORY_RPT
+11. INCIDENT_DT
+
+Data Types:
+INCIDENT_ID                        int64
+INCIDENT_TYPE_E                   object
+INCIDENT_TYPE_F                   object
+RECEIPT_DT                datetime64[ns]
+SOURCE_OF_RECALL_E                object
+SOURCE_OF_RECALL_F                object
+HAZARD_SEVERITY_CODE_E            object
+HAZARD_SEVERITY_CODE_F            object
+INC_AWARE_DT                      object
+MANDATORY_RPT                    float64
+INCIDENT_DT                       object
+dtype: object
+
+Sample Data (first 5 rows):
+        INCIDENT_ID  ... INCIDENT_DT
+151269       909681  ...  2020-01-30
+151271       909685  ...  2020-02-01
+151272       909686  ...  2020-02-04
+151516       910443  ...  2019-10-12
+151534       910493  ...  2020-02-04
+
+[5 rows x 11 columns]

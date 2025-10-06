@@ -1,0 +1,548 @@
+{
+  "analysis_date": "2025-10-05",
+  "total_devices_analyzed": 1781,
+  "devices_with_legal_potential": 197,
+  "top_legal_candidates": [
+    {
+      "device_name": "T:SLIM/CONTROL-IQ",
+      "total_incidents": 221,
+      "deaths": 132,
+      "injuries": 87,
+      "malfunctions": 2,
+      "severity_score": 1495.0,
+      "death_patterns": {
+        "mandatory problem report": 129,
+        "others": 2,
+        "mandatory problem report linked to a recall": 1
+      },
+      "injury_patterns": {
+        "mandatory problem report": 87
+      },
+      "malfunction_patterns": {
+        "mandatory problem report": 2
+      },
+      "top_problems": {
+        "mandatory problem report": 218,
+        "others": 2,
+        "mandatory problem report linked to a recall": 1
+      },
+      "manufacturer": "TANDEM DIABETES CARE, INC.",
+      "legal_merit_reasons": [
+        "132 deaths with similar causes",
+        "87 injuries with repeated patterns",
+        "High incident volume (221 cases)"
+      ]
+    },
+    {
+      "device_name": "SPACE INFUSION SYSTEM - INFUSOMAT SPACE VOLUMETRIC INFUSION PUMP",
+      "total_incidents": 264,
+      "deaths": 127,
+      "injuries": 12,
+      "malfunctions": 125,
+      "severity_score": 1356.5,
+      "death_patterns": {
+        "mandatory problem report": 126,
+        "voluntary problem report": 1
+      },
+      "injury_patterns": {
+        "mandatory problem report": 12
+      },
+      "malfunction_patterns": {
+        "voluntary problem report": 125
+      },
+      "top_problems": {
+        "mandatory problem report": 138,
+        "voluntary problem report": 126
+      },
+      "manufacturer": "HOSPITAL / H\u00d4PITAL; B. BRAUN MELSUNGEN AG; B. BRAUN US DEVICE MANUFACTURING LLC.",
+      "legal_merit_reasons": [
+        "127 deaths with similar causes",
+        "12 injuries with repeated patterns",
+        "125 malfunctions indicating design defects",
+        "High incident volume (264 cases)"
+      ]
+    },
+    {
+      "device_name": "T:SLIM X2 INSULIN PUMP",
+      "total_incidents": 171,
+      "deaths": 113,
+      "injuries": 15,
+      "malfunctions": 43,
+      "severity_score": 1181.5,
+      "death_patterns": {
+        "mandatory problem report": 113
+      },
+      "injury_patterns": {
+        "mandatory problem report": 15
+      },
+      "malfunction_patterns": {
+        "mandatory problem report": 43
+      },
+      "top_problems": {
+        "mandatory problem report": 171
+      },
+      "manufacturer": "TANDEM DIABETES CARE, INC.; TANDEM DIABETES CARE CANADA, INC.",
+      "legal_merit_reasons": [
+        "113 deaths with similar causes",
+        "15 injuries with repeated patterns",
+        "43 malfunctions indicating design defects",
+        "High incident volume (171 cases)"
+      ]
+    },
+    {
+      "device_name": "NOVUM IQ LARGE VOLUME PUMP",
+      "total_incidents": 113,
+      "deaths": 101,
+      "injuries": 7,
+      "malfunctions": 5,
+      "severity_score": 1026.5,
+      "death_patterns": {
+        "mandatory problem report": 97,
+        "mandatory problem report linked to a recall": 2,
+        "voluntary problem report": 1
+      },
+      "injury_patterns": {
+        "mandatory problem report": 7
+      },
+      "malfunction_patterns": {
+        "mandatory problem report": 5
+      },
+      "top_problems": {
+        "mandatory problem report": 109,
+        "mandatory problem report linked to a recall": 2,
+        "voluntary problem report": 1,
+        "others": 1
+      },
+      "manufacturer": "BAXTER CORPORATION; BAXTER HEALTHCARE CORPORATION",
+      "legal_merit_reasons": [
+        "101 deaths with similar causes",
+        "7 injuries with repeated patterns",
+        "High incident volume (113 cases)"
+      ]
+    },
+    {
+      "device_name": "DEXCOM G7 SENSOR",
+      "total_incidents": 148,
+      "deaths": 69,
+      "injuries": 12,
+      "malfunctions": 67,
+      "severity_score": 747.5,
+      "death_patterns": {
+        "mandatory problem report": 68,
+        "voluntary problem report": 1
+      },
+      "injury_patterns": {
+        "mandatory problem report": 12
+      },
+      "malfunction_patterns": {
+        "mandatory problem report": 66,
+        "others": 1
+      },
+      "top_problems": {
+        "mandatory problem report": 146,
+        "voluntary problem report": 1,
+        "others": 1
+      },
+      "manufacturer": "DEXCOM, INC.",
+      "legal_merit_reasons": [
+        "69 deaths with similar causes",
+        "12 injuries with repeated patterns",
+        "67 malfunctions indicating design defects",
+        "High incident volume (148 cases)"
+      ]
+    },
+    {
+      "device_name": "T:SLIM X2 INSULIN PUMP WITH CONTROL-IQ TECHNOLOGY",
+      "total_incidents": 76,
+      "deaths": 55,
+      "injuries": 21,
+      "malfunctions": 0,
+      "severity_score": 592.0,
+      "death_patterns": {
+        "mandatory problem report": 54,
+        "others": 1
+      },
+      "injury_patterns": {
+        "mandatory problem report": 21
+      },
+      "malfunction_patterns": {},
+      "top_problems": {
+        "mandatory problem report": 75,
+        "others": 1
+      },
+      "manufacturer": "TANDEM DIABETES CARE, INC.; TANDEM DIABETES CARE CANADA, INC.",
+      "legal_merit_reasons": [
+        "55 deaths with similar causes",
+        "21 injuries with repeated patterns",
+        "High incident volume (76 cases)"
+      ]
+    },
+    {
+      "device_name": "BIPAP A40 PRO, CA",
+      "total_incidents": 59,
+      "deaths": 59,
+      "injuries": 0,
+      "malfunctions": 0,
+      "severity_score": 590.0,
+      "death_patterns": {
+        "mandatory problem report linked to a recall": 30,
+        "mandatory problem report": 29
+      },
+      "injury_patterns": {},
+      "malfunction_patterns": {},
+      "top_problems": {
+        "mandatory problem report linked to a recall": 30,
+        "mandatory problem report": 29
+      },
+      "manufacturer": "RESPIRONICS INC. ALSO TRADING AS PHILIPS RS NORTH AMERICA LLC",
+      "legal_merit_reasons": [
+        "59 deaths with similar causes",
+        "High incident volume (59 cases)"
+      ]
+    },
+    {
+      "device_name": "T:SLIM/CONTROL-IQ, REPLACEMENT",
+      "total_incidents": 93,
+      "deaths": 50,
+      "injuries": 43,
+      "malfunctions": 0,
+      "severity_score": 586.0,
+      "death_patterns": {
+        "mandatory problem report": 50
+      },
+      "injury_patterns": {
+        "mandatory problem report": 43
+      },
+      "malfunction_patterns": {},
+      "top_problems": {
+        "mandatory problem report": 93
+      },
+      "manufacturer": "TANDEM DIABETES CARE, INC.",
+      "legal_merit_reasons": [
+        "50 deaths with similar causes",
+        "43 injuries with repeated patterns",
+        "High incident volume (93 cases)"
+      ]
+    },
+    {
+      "device_name": "SMOOTH ROUND MODERATE PLUS PROFILE SILICONE GEL FILLED BREAST IMPLANTS",
+      "total_incidents": 98,
+      "deaths": 50,
+      "injuries": 21,
+      "malfunctions": 27,
+      "severity_score": 555.5,
+      "death_patterns": {
+        "mandatory problem report": 50
+      },
+      "injury_patterns": {
+        "mandatory problem report": 21
+      },
+      "malfunction_patterns": {
+        "mandatory problem report": 27
+      },
+      "top_problems": {
+        "mandatory problem report": 98
+      },
+      "manufacturer": "JOHNSON & JOHNSON MEDTECH, A DIV. OF JOHNSON & JOHNSON (CANADA), INC.; MENTOR",
+      "legal_merit_reasons": [
+        "50 deaths with similar causes",
+        "21 injuries with repeated patterns",
+        "27 malfunctions indicating design defects",
+        "High incident volume (98 cases)"
+      ]
+    },
+    {
+      "device_name": "T:SLIM X2 CARTRIDGE",
+      "total_incidents": 92,
+      "deaths": 46,
+      "injuries": 46,
+      "malfunctions": 0,
+      "severity_score": 552.0,
+      "death_patterns": {
+        "mandatory problem report": 45,
+        "others": 1
+      },
+      "injury_patterns": {
+        "mandatory problem report": 46
+      },
+      "malfunction_patterns": {},
+      "top_problems": {
+        "mandatory problem report": 91,
+        "others": 1
+      },
+      "manufacturer": "TANDEM DIABETES CARE, INC.",
+      "legal_merit_reasons": [
+        "46 deaths with similar causes",
+        "46 injuries with repeated patterns",
+        "High incident volume (92 cases)"
+      ]
+    },
+    {
+      "device_name": "SALINE-FILLED MAMMARY PROSTHESES WITH DIAPHRAGM VALVE",
+      "total_incidents": 72,
+      "deaths": 53,
+      "injuries": 5,
+      "malfunctions": 14,
+      "severity_score": 547.0,
+      "death_patterns": {
+        "mandatory problem report": 53
+      },
+      "injury_patterns": {
+        "mandatory problem report": 5
+      },
+      "malfunction_patterns": {
+        "mandatory problem report": 14
+      },
+      "top_problems": {
+        "mandatory problem report": 72
+      },
+      "manufacturer": "JOHNSON & JOHNSON MEDTECH, A DIV. OF JOHNSON & JOHNSON (CANADA), INC.; MENTOR",
+      "legal_merit_reasons": [
+        "53 deaths with similar causes",
+        "5 injuries with repeated patterns",
+        "14 malfunctions indicating design defects",
+        "High incident volume (72 cases)"
+      ]
+    },
+    {
+      "device_name": "LIFELINE BETA AV-SET ONLINE PLUS BVM 5008-R",
+      "total_incidents": 121,
+      "deaths": 43,
+      "injuries": 1,
+      "malfunctions": 77,
+      "severity_score": 470.5,
+      "death_patterns": {
+        "mandatory problem report": 42,
+        "summary mandatory reports": 1
+      },
+      "injury_patterns": {
+        "mandatory problem report": 1
+      },
+      "malfunction_patterns": {
+        "voluntary problem report": 77
+      },
+      "top_problems": {
+        "voluntary problem report": 77,
+        "mandatory problem report": 43,
+        "summary mandatory reports": 1
+      },
+      "manufacturer": "HOSPITAL / H\u00d4PITAL; FRESENIUS MEDICAL CARE CANADA, INC.; FRESENIUS MEDICAL CARE AG",
+      "legal_merit_reasons": [
+        "43 deaths with similar causes",
+        "77 malfunctions indicating design defects",
+        "High incident volume (121 cases)"
+      ]
+    },
+    {
+      "device_name": "CONTROL-IQ TECHNOLOGY",
+      "total_incidents": 52,
+      "deaths": 30,
+      "injuries": 22,
+      "malfunctions": 0,
+      "severity_score": 344.0,
+      "death_patterns": {
+        "mandatory problem report": 29,
+        "mandatory problem report linked to a recall": 1
+      },
+      "injury_patterns": {
+        "mandatory problem report": 22
+      },
+      "malfunction_patterns": {},
+      "top_problems": {
+        "mandatory problem report": 51,
+        "mandatory problem report linked to a recall": 1
+      },
+      "manufacturer": "TANDEM DIABETES CARE, INC.; TANDEM DIABETES CARE CANADA, INC.",
+      "legal_merit_reasons": [
+        "30 deaths with similar causes",
+        "22 injuries with repeated patterns",
+        "High incident volume (52 cases)"
+      ]
+    },
+    {
+      "device_name": "UNKNOWN B BRAUN INFUSION PUMP",
+      "total_incidents": 35,
+      "deaths": 33,
+      "injuries": 2,
+      "malfunctions": 0,
+      "severity_score": 334.0,
+      "death_patterns": {
+        "mandatory problem report": 33
+      },
+      "injury_patterns": {
+        "mandatory problem report": 2
+      },
+      "malfunction_patterns": {},
+      "top_problems": {
+        "mandatory problem report": 35
+      },
+      "manufacturer": "HOSPITAL / H\u00d4PITAL; B. BRAUN MEDICAL INC.",
+      "legal_merit_reasons": [
+        "33 deaths with similar causes",
+        "High incident volume (35 cases)"
+      ]
+    },
+    {
+      "device_name": "PRISMAX CONTROL UNIT",
+      "total_incidents": 116,
+      "deaths": 26,
+      "injuries": 2,
+      "malfunctions": 88,
+      "severity_score": 308.0,
+      "death_patterns": {
+        "mandatory problem report": 26
+      },
+      "injury_patterns": {
+        "voluntary problem report": 1,
+        "mandatory problem report": 1
+      },
+      "malfunction_patterns": {
+        "voluntary problem report": 88
+      },
+      "top_problems": {
+        "voluntary problem report": 89,
+        "mandatory problem report": 27
+      },
+      "manufacturer": "HOSPITAL / H\u00d4PITAL",
+      "legal_merit_reasons": [
+        "26 deaths with similar causes",
+        "88 malfunctions indicating design defects",
+        "High incident volume (116 cases)"
+      ]
+    },
+    {
+      "device_name": "INFUSOMAT SPACE PUMP IV SET",
+      "total_incidents": 153,
+      "deaths": 23,
+      "injuries": 0,
+      "malfunctions": 130,
+      "severity_score": 295.0,
+      "death_patterns": {
+        "mandatory problem report": 22,
+        "summary mandatory reports": 1
+      },
+      "injury_patterns": {},
+      "malfunction_patterns": {
+        "voluntary problem report": 130
+      },
+      "top_problems": {
+        "voluntary problem report": 130,
+        "mandatory problem report": 22,
+        "summary mandatory reports": 1
+      },
+      "manufacturer": "HOSPITAL / H\u00d4PITAL; B. BRAUN MEDICAL INC.; B. BRAUN US DEVICE MANUFACTURING LLC.",
+      "legal_merit_reasons": [
+        "23 deaths with similar causes",
+        "130 malfunctions indicating design defects",
+        "High incident volume (153 cases)"
+      ]
+    },
+    {
+      "device_name": "OMNIPOD DASH, PODS 10-PACK",
+      "total_incidents": 61,
+      "deaths": 20,
+      "injuries": 39,
+      "malfunctions": 2,
+      "severity_score": 279.0,
+      "death_patterns": {
+        "mandatory problem report": 20
+      },
+      "injury_patterns": {
+        "mandatory problem report": 39
+      },
+      "malfunction_patterns": {
+        "mandatory problem report": 2
+      },
+      "top_problems": {
+        "mandatory problem report": 61
+      },
+      "manufacturer": "INSULET CORPORATION; INSULET CANADA CORPORATION",
+      "legal_merit_reasons": [
+        "20 deaths with similar causes",
+        "39 injuries with repeated patterns",
+        "High incident volume (61 cases)"
+      ]
+    },
+    {
+      "device_name": "UNKNOWN B BRAUN IV TUBING",
+      "total_incidents": 27,
+      "deaths": 27,
+      "injuries": 0,
+      "malfunctions": 0,
+      "severity_score": 270.0,
+      "death_patterns": {
+        "mandatory problem report": 27
+      },
+      "injury_patterns": {},
+      "malfunction_patterns": {},
+      "top_problems": {
+        "mandatory problem report": 27
+      },
+      "manufacturer": "HOSPITAL / H\u00d4PITAL; B. BRAUN",
+      "legal_merit_reasons": [
+        "27 deaths with similar causes",
+        "High incident volume (27 cases)"
+      ]
+    },
+    {
+      "device_name": "UNKNOWN BREAST IMPLANT",
+      "total_incidents": 109,
+      "deaths": 5,
+      "injuries": 97,
+      "malfunctions": 7,
+      "severity_score": 247.5,
+      "death_patterns": {
+        "mandatory problem report": 5
+      },
+      "injury_patterns": {
+        "mandatory problem report": 97
+      },
+      "malfunction_patterns": {
+        "mandatory problem report": 7
+      },
+      "top_problems": {
+        "mandatory problem report": 109
+      },
+      "manufacturer": "ABBVIE CORPORATION; ALLERGAN SALES, LLC ALSO DOING BUSINESS AS ALLERGAN",
+      "legal_merit_reasons": [
+        "5 deaths with similar causes",
+        "97 injuries with repeated patterns",
+        "High incident volume (109 cases)"
+      ]
+    },
+    {
+      "device_name": "SMOOTH ROUND HIGH PROFILE SILICONE GEL FILLED BREAST IMPLANTS",
+      "total_incidents": 51,
+      "deaths": 21,
+      "injuries": 14,
+      "malfunctions": 16,
+      "severity_score": 246.0,
+      "death_patterns": {
+        "mandatory problem report": 21
+      },
+      "injury_patterns": {
+        "mandatory problem report": 14
+      },
+      "malfunction_patterns": {
+        "mandatory problem report": 16
+      },
+      "top_problems": {
+        "mandatory problem report": 51
+      },
+      "manufacturer": "JOHNSON & JOHNSON MEDTECH, A DIV. OF JOHNSON & JOHNSON (CANADA), INC.; MENTOR",
+      "legal_merit_reasons": [
+        "21 deaths with similar causes",
+        "14 injuries with repeated patterns",
+        "16 malfunctions indicating design defects",
+        "High incident volume (51 cases)"
+      ]
+    }
+  ],
+  "analysis_criteria": {
+    "minimum_incidents": 5,
+    "death_pattern_threshold": 2,
+    "injury_pattern_threshold": 3,
+    "malfunction_pattern_threshold": 5,
+    "severity_scoring": "deaths*10 + injuries*2 + malfunctions*0.5"
+  }
+}
