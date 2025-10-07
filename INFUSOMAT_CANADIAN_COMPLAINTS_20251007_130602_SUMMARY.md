@@ -1,0 +1,42 @@
+# INFUSOMAT Canadian Complaints Summary
+*Generated on October 07, 2025 at 13:06:02*
+
+## 📊 Overview
+- **Total INFUSOMAT Complaints**: 588
+- **Data Source**: Canadian Medical Device Incidents Database
+- **Analysis Date**: 2025-10-07
+
+## 🚨 Severity Analysis
+- **MINIMAL/NO ADVERSE HEALTH CONSEQUENCES**: 344 cases (58.5%)
+- **POTENTIAL FOR DEATH/INJURY**: 224 cases (38.1%)
+- **INJURY**: 17 cases (2.9%)
+- **UNASSIGNED**: 2 cases (0.3%)
+- **DEATH**: 1 cases (0.2%)
+
+## 🔧 Top Device Models
+- **SPACE INFUSION SYSTEM - INFUSOMAT SPACE VOLUMETRIC INFUSION PUMP**: 264 complaints
+- **INFUSOMAT SPACE PUMP IV SET**: 153 complaints
+- **INFUSOMAT SPACE PUMP IV SET WITH ANTI-SIPHON VALVE**: 76 complaints
+- **INFUSOMAT SPACE PUMP IV SET; SPACE INFUSION SYSTEM - INFUSOMAT SPACE VOLUMETRIC INFUSION PUMP**: 21 complaints
+- **INFUSOMAT SPACE PUMP Y-TYPE BLOOD IV SET WITH ANTI-SIPHON VALVE**: 18 complaints
+- **INFUSOMAT SPACE LINE, TYPE TRANSFUSION**: 3 complaints
+- **SPACE INFUSION SYSTEM - INFUSOMAT SPACE VOLUMETRIC INFUSION PUMP; UNKNOWN B BRAUN IV TUBING**: 3 complaints
+
+## 📋 Data Columns Available
+- `INCIDENT_ID`: 588/588 values
+- `INCIDENT_TYPE_E`: 588/588 values
+- `INCIDENT_TYPE_F`: 588/588 values
+- `RECEIPT_DT`: 588/588 values
+- `SOURCE_OF_RECALL_E`: 588/588 values
+- `SOURCE_OF_RECALL_F`: 588/588 values
+- `HAZARD_SEVERITY_CODE_E`: 588/588 values
+- `HAZARD_SEVERITY_CODE_F`: 588/588 values
+- `INC_AWARE_DT`: 587/588 values
+- `MANDATORY_RPT`: 231/588 values
+- `INCIDENT_DT`: 575/588 values
+- `TRADE_NAME`: 588/588 values
+- `PREF_NAME_CODE`: 588/588 values
+- `RISK_CLASSIFICATION`: 588/588 values
+- `USAGE_CODE_TERM_E`: 588/588 values
+- `COMPANY_NAME`: 588/588 values
+- `ROLE_E`: 588/588 values
