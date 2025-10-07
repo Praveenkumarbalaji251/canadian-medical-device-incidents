@@ -33,11 +33,13 @@ import DataUpload from './components/DataUpload';
 import RedditEvidence from './components/RedditEvidence';
 import OptimizedPotentialLegalDevices from './components/OptimizedPotentialLegalDevices';
 import ComprehensiveRedditEvidence from './components/ComprehensiveRedditEvidence';
+import CardiacArrestCases from './components/CardiacArrestCases';
 
 // Navigation items
 const navigationItems = [
   { name: 'Dashboard', href: '/', icon: Home, color: 'text-blue-600' },
   { name: 'All Incidents', href: '/incidents', icon: AlertTriangle, color: 'text-red-600' },
+  { name: 'Cardiac Arrest Deaths', href: '/cardiac-deaths', icon: Heart, color: 'text-red-700' },
   { name: 'Legal Devices', href: '/legal', icon: Scale, color: 'text-purple-600' },
   { name: 'All Reddit Evidence', href: '/reddit-all', icon: MessageSquare, color: 'text-indigo-600' },
   { name: 'Reddit Evidence', href: '/reddit', icon: MessageSquare, color: 'text-indigo-500' },
@@ -207,6 +209,7 @@ function App() {
                   <Routes>
                     <Route path="/" element={<Dashboard />} />
                     <Route path="/incidents" element={<OptimizedAllIncidents />} />
+                    <Route path="/cardiac-deaths" element={<CardiacArrestCases />} />
                     <Route path="/legal" element={<OptimizedPotentialLegalDevices />} />
                     <Route path="/reddit-all" element={<ComprehensiveRedditEvidence />} />
                     <Route path="/reddit" element={<RedditEvidence />} />
